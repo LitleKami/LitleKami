@@ -2,7 +2,8 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Flask and Machine Learning
 - 💞️ I’m looking to collaborate on web development, web scraping, web automation, and machine learning projects.
-- 📫 How to reach me itznehemiah@gmail.com
+- 📫 How to reach me itznehemiah@gmail.com, nehemiahanyidakuzo@gmail.com
+- Check out my web project: https://bethscribbles.onrender.com/
 
 - ⚡ Fun fact: God is Love
 
