@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @LitleKami
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Flask and Machine Learning
-- 💞️ I’m looking to collaborate on web development, web scraping, web automation, and machine learning projects.
-- 📫 How to reach me itznehemiah@gmail.com, nehemiahanyidakuzo@gmail.com
-- Check out my web project: https://bethscribbles.onrender.com/
+# Nehemiah Anyidakuzo
 
-- ⚡ Fun fact: God is Love
+Python developer focused on Flask web apps, automation, and machine learning.
+Building real tools that solve real problems.
 
-<!---
-LitleKami/LitleKami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech Stack
+Python · Flask · HTML/CSS · BeautifulSoup · Pandas · Git
+
+## Projects
+- 🖊️ [BethScribbles](https://bethscribbles.onrender.com) – A blogging platform built with Flask
+- 🤖 [coming soon] Web Scraper for job listings
+- 📊 [coming soon] ML project
+
+## Currently Learning
+Flask REST APIs · Scikit-learn · SQL
+
+📫 nehemiahanyidakuzo@gmail.com
